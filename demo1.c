@@ -10,10 +10,7 @@ case $m in
 	3)echo "april is 30 days"
 	
 	
-	tfujgulhlh;jj
-	;;
-	*)echo "invalid month"
-
+	tfujgulh
 esac
 
 
